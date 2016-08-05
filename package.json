@@ -1,0 +1,24 @@
+{
+    "author": "jacob.rusch@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "draw_dial",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "DRAW_DIAL",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "3a3b742d-7567-4104-8181-f53500b249ac",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
